@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.22</version>
-    <url>https://raw.githubusercontent.com/wabutt/itsmevsauce/master/WAButt_1.0.0.22.zip</url>
+    <version>1.0.0.23</version>
+    <url>https://raw.githubusercontent.com/wabutt/itsmevsauce/master/WAButt_1.0.0.23.zip</url>
     <changelog>https://raw.githubusercontent.com/wabutt/itsmevsauce/master/CHANGELOG.txt</changelog>
     <mandatory>true</mandatory>
-    <checksum algorithm="SHA256">B68814952BB9F4C0CF9F059359A9D26E6928A284C5193F14B6D788E930C837E5</checksum>
+    <checksum algorithm="SHA256">F2FAF0A437E757699F54EDB819C6160578E2846B2DEE6D6E39E8E73334BF8C16</checksum>
 </item>
